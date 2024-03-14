@@ -43,6 +43,9 @@ color: #585858;
     grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
     gap: 15px;
     padding: 20px;
+    margin-top: -25px;
+    margin-bottom: 50px;
+
 }
 
 .main .card{
@@ -83,7 +86,7 @@ color: #585858;
     margin: 20px;
 }
 
-.serach-box{
+ .serach-box{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -116,6 +119,7 @@ color: #585858;
     margin: 15px auto;
     text-align: center;
     font-weight: 300;
+   margin-bottom: -12px;
 }
 
 .result{
