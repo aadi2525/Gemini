@@ -28,8 +28,8 @@ const Main = () => {
             {!showResult
             ?<>
             <div className="greet">
-            <p><span>Hello , Aadi.</span></p>
-            <p>How Can I Help You , Today?</p>
+            <p><span>Hello , User.</span></p>
+            <p>Welcome to help </br> How Can I Help You , Today?</p>
             </div>
 
             <div className="cards">
